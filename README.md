@@ -17,7 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
 </a>
   
-  <a href="https://instagram.com/mr_happy_sh">
+  <a href="https://instagram.com/byas_yadavv">
    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
 </a>
   
