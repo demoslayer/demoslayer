@@ -2,10 +2,10 @@
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
 
-## I'm a Student and a noob Developer!!
-- 🌱 I’m currently learning Web Development and Programming
+## I'm a Student and a Developer!!
+- 🌱 I’m a full stack developer and Competitive Programming Coder
 - 👯 I’m looking to some exciting open source projects!
-- 🥅 2022 Goals: Learn more about Dev and AI
+- 🥅 2024 goals looking for an internship
 - ⚡ Fun fact: Privach is EVERYTHING
 - :exclamation: Hello world to Better world!
 - :star: Interested in Machine Learning
